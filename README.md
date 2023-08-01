@@ -24,11 +24,12 @@ currently_learning:
   "Python",
  ]
 
-hobbies: 
+hobbies & likes: 
  [ 
   "Gaming",
-  "Writing", 
+  "Marathons", 
   "Playing Guitar",
+  "Amateur Astronomy Research",
  ]
 ```
 <h3 align="center">Bytes In My Tool Belt</h3>
