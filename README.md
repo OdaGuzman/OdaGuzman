@@ -16,12 +16,11 @@ fields_of_interests:
    "Cloud Architecture", 
   ]
   
-  
 currently_learning:
  [
   "Docker",
   "Kubernetes",
-  "Python",
+  ".NET",
  ]
 
 hobbies & likes: 
