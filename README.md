@@ -4,8 +4,8 @@
 
 ```yaml
 
-name: Oda Guzman
-located_in: Vancouver, British Columbia
+name: Oda
+located_in: Canada
 current_job: Software Developer
 
 fields_of_interests:
