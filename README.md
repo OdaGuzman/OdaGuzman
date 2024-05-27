@@ -5,15 +5,15 @@
 ```yaml
 
 name: Oda
-located_in: Canada
-current_job: Software Developer
+located_in: The Great White North 🍁
+
 
 fields_of_interests:
   [
    "UI/UX",
    "Web Development",
    "Mobile Development",
-   "Cloud Architecture", 
+   "Cloud Architecture",
   ]
   
 currently_learning:
